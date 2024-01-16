@@ -1,4 +1,4 @@
-@media (max-width: 576px) {
+@media screen and (max-width: 576px) {
   /* banner */
   #banner {
     height: 60vh;
